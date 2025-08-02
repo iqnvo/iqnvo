@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img align="right" alt="Personal Banner" width="300" src="https://raw.githubusercontent.com/iqnvo/iqnvo/refs/heads/main/banner.gif" />
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=0xYuta+%7C+iqnvo;Application+Developer;Creative+Problem+Solver;Always+Learning+%F0%9F%9A%80)
 
 </div>
@@ -90,6 +92,18 @@ print(f"Current Power Level: {yuta.power_level}")
 
 ---
 
+## 🖥️ Terminal Showcase
+
+<div align="center">
+
+![Terminal](https://github.com/iqnvo/iqnvo/assets/your-image-path/terminal-screenshot.png)
+
+*Real-time coding session - Building the future line by line* ⚡
+
+</div>
+
+---
+
 ## 📊 إحصائيات GitHub | GitHub Stats
 
 <div align="center">
@@ -127,11 +141,23 @@ print(f"Current Power Level: {yuta.power_level}")
 
 ---
 
-## 💭 اقتباس ملهم | Inspirational Quote
+## 💭 اقتباس ملهم | Code Philosophy
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House)
+<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Anime Think" width="400"/>
+
+```javascript
+const codingPhilosophy = {
+    mindset: "Think like a strategist, code like an artist 🎨",
+    approach: "Every bug is just an undiscovered feature waiting to shine ✨", 
+    motivation: "Code is poetry written in logic 📝",
+    goal: "Building the future, one line at a time 🚀"
+};
+
+console.log("🌟 " + codingPhilosophy.mindset);
+// Output: Think like a strategist, code like an artist 🎨
+```
 
 </div>
 
