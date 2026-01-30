@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Lerm
+# 👋 Hello, I'm La La La
 
 <div align="center">
 
@@ -28,7 +28,7 @@ class AnimeCodeMaster:
         self.name = "@LA LA LA LA"
         self.power_level = "Idk"
         self.coding_style = "Clean & Elegant"
-        self.mycan = "Nony."
+        self.mycat = "Nony."
         
     def skills_unleashed(self):
         techniques = {
