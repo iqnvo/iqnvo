@@ -25,7 +25,7 @@ class AnimeCodeMaster:
         techniques = {
             "primary_jutsu": ["Python 🐍", "HTML5 ⚡", "CSS3 🎨"],
             "secondary_arts": ["PHP 🔮", "C++ ⚔️", "MySQL 🗃️"],
-            "special_ability": "Programmer Gui, لا ادخل نقاشات بمواضيع البرمجه لكثره الاشخاص الاغبياء.",
+            "special_ability": "Gui, Servers, Bots...",
             "ultimate_goal": "Creating Epic Applications ! - كثير من المشاريع انحذفت او الغيت."
         }
         return techniques
