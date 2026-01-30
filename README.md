@@ -4,7 +4,7 @@
 
 ![Banner](https://raw.githubusercontent.com/iqnvo/iqnvo/refs/heads/main/banner.gif)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Lerm+%7C+iqnvo;Application+Developer;Creative+Problem+Solver;Always+Learning+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=La La La+%7C+iqnvo;Application+Developer;Creative+Problem+Solver;Always+Learning+%F0%9F%9A%80)
 
 </div>
 
@@ -57,9 +57,9 @@ class AnimeCodeMaster:
         }
 
 # Initialize the coding ninja! 🥷
-Lerm = AnimeCodeMaster()
+La La La = AnimeCodeMaster()
 print("🌟 Welcome to my coding universe! 🌟")
-print(f"Current Power Level: {Lerm.power_level}")
+print(f"Current Power Level: {La La La.power_level}")
 ```
 
 ---
@@ -122,7 +122,7 @@ print(f"Current Power Level: {Lerm.power_level}")
 
 <div align="center">
 
-[![Lerm's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iqnvo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![La La La's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iqnvo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
