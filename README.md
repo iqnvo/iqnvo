@@ -57,9 +57,9 @@ class AnimeCodeMaster:
         }
 
 # Initialize the coding ninja! 🥷
-La La La = AnimeCodeMaster()
+a = AnimeCodeMaster()
 print("🌟 Welcome to my coding universe! 🌟")
-print(f"Current Power Level: {La La La.power_level}")
+print(f"Current Power Level: {a.power_level}")
 ```
 
 ---
@@ -122,7 +122,7 @@ print(f"Current Power Level: {La La La.power_level}")
 
 <div align="center">
 
-[![La La La's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iqnvo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![La_La_La's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iqnvo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
