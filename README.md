@@ -25,26 +25,25 @@
 ```python
 class AnimeCodeMaster:
     def __init__(self):
-        self.name = "Lerm | Lerm"
-        self.username = "@iqnvo"
-        self.power_level = "Over 9000! 💫"
+        self.name = "@LA LA LA LA"
+        self.power_level = "Idk"
         self.coding_style = "Clean & Elegant"
-        self.favorite_anime = "Code Geass, Death Note, SAO"
+        self.mycan = "Nony."
         
     def skills_unleashed(self):
         techniques = {
             "primary_jutsu": ["Python 🐍", "HTML5 ⚡", "CSS3 🎨"],
             "secondary_arts": ["PHP 🔮", "C++ ⚔️", "MySQL 🗃️"],
-            "special_ability": "Qt Framework (GUI Master) 🏆",
-            "ultimate_goal": "Creating Epic Applications! 🚀"
+            "special_ability": "Programmer Gui, لا ادخل نقاشات بمواضيع البرمجه لكثره الاشخاص الاغبياء.",
+            "ultimate_goal": "Creating Epic Applications ! - كثير من المشاريع انحذفت او الغيت."
         }
         return techniques
     
     def current_quest(self):
         missions = [
-            "🎯 Mastering Desktop Applications",
-            "🌐 Building Web Solutions", 
-            "🎮 Creating User-Friendly GUIs",
+            "هاوي للمجال 5 سنين",
+            " احب الكل", 
+            " Creating User-Friendly GUIs",
             "⚡ Optimizing Code Performance"
         ]
         return missions
